@@ -1,0 +1,48 @@
+
+*{
+  box-sizing:border-box;
+}
+body{
+    background-color: #f4f4f4;
+}
+
+.jumbotron{
+  margin: auto;
+  padding: 0px;
+  background-color: #2dd67f;
+  color: white;
+  padding-bottom: 0.8em;
+
+
+
+}
+
+.foot{
+
+   bottom : 2px;
+     
+     margin-top : 40px;
+     text-align: center;
+     vertical-align: middle;
+     position:fixed;
+     width:100%;
+
+}
+.title{
+  padding: 8px;
+}
+
+.display-4{
+  overflow: hidden;
+  float: left;
+  font-family: 'Kalam', cursive;
+}
+.form-inline{
+  overflow: hidden;
+  float: right;
+}
+.list{
+  float: left;
+  margin: 0px;
+  padding: 0px;
+}
